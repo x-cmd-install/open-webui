@@ -1,0 +1,66 @@
+about:
+  description: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+  license: NOASSERTION
+  homepage: https://openwebui.com
+  head: 2a960a5
+  archived: false
+  latestVersion: v0.11.3
+  collectedAt: 2026-09-01T05:36:16Z
+timeline:
+  created: 2023-10-06
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 150535
+  watcher: 654
+  fork: 21983
+  release: 170
+  contributor: 858
+  pullRequest: 6603
+  issue: 9573
+language:
+  Python: 4289616
+  Svelte: 3886700
+  JavaScript: 2424334
+  TypeScript: 605057
+  CSS: 239699
+  Shell: 20677
+  Dockerfile: 9427
+  HTML: 7569
+  Batchfile: 2437
+  Mako: 665
+  Makefile: 643
+totalLine: 11486824
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 3
+    mergedPR: 143
+    openPR: 24
+    closedIssue: 309
+    openIssue: 60
+    commit: 569
+  last90d:
+    since: 2026-06-03
+    release: 7
+    mergedPR: 488
+    openPR: 41
+    closedIssue: 823
+    openIssue: 98
+    commit: 1713
+  last180d:
+    since: 2026-03-05
+    release: 18
+    mergedPR: 837
+    openPR: 44
+    closedIssue: 1660
+    openIssue: 115
+    commit: 2966
+  last360d:
+    since: 2025-09-06
+    release: 47
+    mergedPR: 1574
+    openPR: 48
+    closedIssue: 3110
+    openIssue: 132
+    commit: 5833
