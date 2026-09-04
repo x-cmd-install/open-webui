@@ -1,23 +1,25 @@
 about:
-  description: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+  description:
+  |
+    User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
   license: NOASSERTION
   homepage: https://openwebui.com
   head: 2a960a5
   archived: false
   latestVersion: v0.11.3
-  collectedAt: 2026-09-04T05:02:26Z
+  collectedAt: 2026-09-04T19:56:00Z
 timeline:
   created: 2023-10-06
   lastCommit: 2026-08-31
   lastRelease: 2026-08-31
 popularity:
-  star: 150864
-  watcher: 654
-  fork: 22042
+  star: 150942
+  watcher: 653
+  fork: 22057
   release: 170
   contributor: 857
-  pullRequest: 6652
-  issue: 9615
+  pullRequest: 10860
+  issue: 9633
 language:
   Python: 4289616
   Svelte: 3886700
@@ -30,37 +32,63 @@ language:
   Batchfile: 2437
   Mako: 665
   Makefile: 643
-totalLine: 11486824
+totalBytes: 11486824
 recent:
   last30d:
     since: 2026-08-05
     release: 3
-    mergedPR: 144
-    openPR: 30
-    closedIssue: 287
-    openIssue: 86
+    mergedPR: 155
+    openPR: 35
+    closedIssue: 299
+    openIssue: 92
     commit: 569
+  last60d:
+    since: 2026-07-06
+    release: 4
+    mergedPR: 377
+    openPR: 52
+    closedIssue: 599
+    openIssue: 123
+    commit: 1265
   last90d:
     since: 2026-06-06
     release: 7
-    mergedPR: 494
-    openPR: 51
-    closedIssue: 818
-    openIssue: 129
+    mergedPR: 505
+    openPR: 56
+    closedIssue: 830
+    openIssue: 135
     commit: 1713
   last180d:
     since: 2026-03-08
     release: 18
-    mergedPR: 818
-    openPR: 54
-    closedIssue: 1645
-    openIssue: 146
+    mergedPR: 829
+    openPR: 59
+    closedIssue: 1657
+    openIssue: 152
     commit: 2966
   last360d:
     since: 2025-09-09
     release: 47
-    mergedPR: 1576
-    openPR: 58
-    closedIssue: 3104
-    openIssue: 163
+    mergedPR: 1587
+    openPR: 63
+    closedIssue: 3116
+    openIssue: 169
     commit: 5833
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 2992
+    openPR: 64
+    closedIssue: 7353
+    openIssue: 193
+    commit: 12587
+total:
+  release: 170
+  mergedPR: 4196
+  openPR: 64
+  closedIssue: 9437
+  openIssue: 196
+  commit: 18390
+---
+---
+
