@@ -5,19 +5,19 @@ about:
   head: 0a7c158
   archived: false
   latestVersion: "v0.11.3"
-  collectedAt: 2026-09-07T04:01:51Z
+  collectedAt: 2026-09-07T20:03:44Z
 timeline:
   created: 2023-10-06
   lastCommit: 2026-09-04
   lastRelease: 2026-08-31
 popularity:
-  star: 151155
-  watcher: 656
-  fork: 22098
+  star: 151248
+  watcher: 657
+  fork: 22111
   release: 170
   contributor: 857
-  pullRequest: 10915
-  issue: 9659
+  pullRequest: 10921
+  issue: 9667
 language:
   Python: 4289616
   Svelte: 3886700
@@ -35,61 +35,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 3
-    mergedPR: 168
-    openPR: 41
-    closedIssue: 280
-    openIssue: 97
+    mergedPR: 172
+    openPR: 37
+    closedIssue: 287
+    openIssue: 98
     commit: 383
   last60d:
     since: 2026-07-09
     release: 4
-    mergedPR: 389
-    openPR: 54
-    closedIssue: 588
-    openIssue: 131
+    mergedPR: 393
+    openPR: 50
+    closedIssue: 595
+    openIssue: 132
     commit: 1155
   last90d:
     since: 2026-06-09
     release: 7
-    mergedPR: 498
-    openPR: 62
-    closedIssue: 827
-    openIssue: 145
+    mergedPR: 502
+    openPR: 58
+    closedIssue: 834
+    openIssue: 146
     commit: 1712
   last180d:
     since: 2026-03-11
     release: 16
-    mergedPR: 837
-    openPR: 65
-    closedIssue: 1633
-    openIssue: 161
+    mergedPR: 841
+    openPR: 61
+    closedIssue: 1640
+    openIssue: 162
     commit: 2905
   last360d:
     since: 2025-09-12
     release: 45
-    mergedPR: 1601
-    openPR: 68
-    closedIssue: 3091
-    openIssue: 179
+    mergedPR: 1605
+    openPR: 64
+    closedIssue: 3098
+    openIssue: 180
     commit: 5608
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 3015
-    openPR: 69
-    closedIssue: 7349
-    openIssue: 203
+    mergedPR: 3019
+    openPR: 65
+    closedIssue: 7356
+    openIssue: 204
     commit: 12564
 total:
   release: 170
-  mergedPR: 4223
-  openPR: 69
-  closedIssue: 9453
-  openIssue: 206
+  mergedPR: 4227
+  openPR: 65
+  closedIssue: 9460
+  openIssue: 207
   commit: 18391
 ---
 path: /home/runner/.x-repo/github.com/open-webui/open-webui
-collectedAt: 2026-09-07T04:02:25Z
+collectedAt: 2026-09-07T20:04:17Z
 loc:
   Json:
     code: 227557
@@ -190,7 +190,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:02:27+00:00
+  collectedAt: 2026-09-07T20:04:19+00:00
   platform:
     darwin/arm64:
       name:  null
