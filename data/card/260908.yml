@@ -5,15 +5,15 @@ about:
   head: 0a7c158
   archived: false
   latestVersion: "v0.11.3"
-  collectedAt: 2026-09-08T01:34:25Z
+  collectedAt: 2026-09-08T04:04:10Z
 timeline:
   created: 2023-10-06
   lastCommit: 2026-09-04
   lastRelease: 2026-08-31
 popularity:
-  star: 151262
+  star: 151274
   watcher: 658
-  fork: 22115
+  fork: 22119
   release: 170
   contributor: 857
   pullRequest: 10925
@@ -89,7 +89,7 @@ total:
   commit: 18391
 ---
 path: /home/runner/.x-repo/github.com/open-webui/open-webui
-collectedAt: 2026-09-08T01:35:03Z
+collectedAt: 2026-09-08T04:04:48Z
 loc:
   Json:
     code: 227557
