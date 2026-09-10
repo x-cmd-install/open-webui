@@ -12,6 +12,18 @@ User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 x install open-webui
 ```
 
+## Code insight
+
+Total: **495,823** lines of code across **1089** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 227,557 | 0 | 0 | 72 |
+| Python | 91,576 | 5,258 | 17,136 | 261 |
+| JavaScript | 73,741 | 3,808 | 127 | 11 |
+| Svelte | 64,060 | 1,038 | 4,049 | 662 |
+| TypeScript | 22,582 | 599 | 3,044 | 83 |
+
 ## Source
 
 - **Upstream**: <https://github.com/open-webui/open-webui>
@@ -25,31 +37,30 @@ x install open-webui
 
 ## Popularity
 
-- **Stars**: 151,546 · **Forks**: 22,166 · **Open issues**: 9,713 · **Contributors**: 856
+- **Stars**: 151,561 · **Forks**: 22,169 · **Open issues**: 9,717 · **Contributors**: 856
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 4238 · **Open PRs**: 70 · **Closed issues**: 9502 · **Open issues**: 211 · **Commits**: 18391
+- **Releases**: 170 · **Merged PRs**: 4239 · **Open PRs**: 69 · **Closed issues**: 9505 · **Open issues**: 212 · **Commits**: 18391
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 180 | 41 | 304 | 99 | 383 |
-| 90d | 2026-06-12 | 7 | 484 | 63 | 851 | 151 | 1712 |
-| 360d | 2025-09-15 | 45 | 1616 | 69 | 3121 | 184 | 5608 |
+| 30d | 2026-08-11 | 3 | 181 | 40 | 307 | 100 | 383 |
+| last60d | 2026-07-12 | 4 | 399 | 54 | 622 | 137 | 1155 |
+| 90d | 2026-06-12 | 7 | 485 | 62 | 854 | 152 | 1712 |
+| last180d | 2026-03-14 | 16 | 856 | 65 | 1656 | 167 | 2905 |
+| 360d | 2025-09-15 | 45 | 1617 | 68 | 3124 | 185 | 5608 |
+| last720d | 2024-09-20 | 100 | 3022 | 69 | 7366 | 209 | 12485 |
 
-## Code size
+## Distribution status
 
-Total: **495,823** lines of code across **1089** files in the top 5 languages.
+Reported by **9** distros on [repology.org](https://repology.org/project/open-webui). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 227,557 | 0 | 0 | 72 |
-| Python | 91,576 | 5,258 | 17,136 | 261 |
-| JavaScript | 73,741 | 3,808 | 127 | 11 |
-| Svelte | 64,060 | 1,038 | 4,049 | 662 |
-| TypeScript | 22,582 | 599 | 3,044 | 83 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.11.3` | ✅ latest |
 
 ## Improve this data
 
@@ -60,4 +71,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:00:07Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:26:24Z._
