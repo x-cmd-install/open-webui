@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.11.3"
   latestRelease: "v0.11.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:08:26Z
+  collectedAt: 2026-09-10T15:59:08Z
 timeline:
   created: 2023-10-06
   lastCommit: 2026-09-04
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 151489
-  watcher: 661
-  fork: 22155
+  star: 151546
+  watcher: 660
+  fork: 22166
   release: 170
   contributor: 856
-  pullRequest: 10967
-  issue: 9709
+  pullRequest: 10969
+  issue: 9713
 language:
   Python: 4289616
   Svelte: 3886700
@@ -40,60 +40,60 @@ recent:
     since: 2026-08-11
     release: 3
     mergedPR: 180
-    openPR: 40
+    openPR: 41
     closedIssue: 304
-    openIssue: 95
+    openIssue: 99
     commit: 383
   last60d:
     since: 2026-07-12
     release: 4
     mergedPR: 398
-    openPR: 54
+    openPR: 55
     closedIssue: 619
-    openIssue: 132
+    openIssue: 136
     commit: 1155
   last90d:
     since: 2026-06-12
     release: 7
     mergedPR: 484
-    openPR: 62
+    openPR: 63
     closedIssue: 851
-    openIssue: 147
+    openIssue: 151
     commit: 1712
   last180d:
     since: 2026-03-14
     release: 16
     mergedPR: 855
-    openPR: 65
+    openPR: 66
     closedIssue: 1653
-    openIssue: 162
+    openIssue: 166
     commit: 2905
   last360d:
     since: 2025-09-15
     release: 45
     mergedPR: 1616
-    openPR: 68
+    openPR: 69
     closedIssue: 3121
-    openIssue: 180
+    openIssue: 184
     commit: 5608
   last720d:
     since: 2024-09-20
     release: 100
     mergedPR: 3021
-    openPR: 69
+    openPR: 70
     closedIssue: 7363
-    openIssue: 204
+    openIssue: 208
     commit: 12485
 total:
   release: 170
   mergedPR: 4238
-  openPR: 69
+  openPR: 70
   closedIssue: 9502
-  openIssue: 207
+  openIssue: 211
   commit: 18391
 ---
 path: /home/runner/.x-repo/github.com/open-webui/open-webui
-collectedAt: 2026-09-10T04:08:57Z
+collectedAt: 2026-09-10T15:59:55Z
 loc:
   Json:
     code: 227557

@@ -44,12 +44,12 @@
   "reactions": {
     "url": "https://api.github.com/repos/open-webui/open-webui/releases/379836180/reactions",
     "total_count": 83,
-    "+1": 43,
+    "+1": 44,
     "-1": 0,
     "laugh": 0,
     "hooray": 10,
     "confused": 0,
-    "heart": 15,
+    "heart": 14,
     "rocket": 6,
     "eyes": 9
   }
