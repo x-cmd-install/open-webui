@@ -37,30 +37,22 @@ Total: **495,823** lines of code across **1089** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 151,808 · **Forks**: 22,205 · **Open issues**: 9,742 · **Contributors**: 855
+- **Stars**: 151,915 · **Forks**: 22,222 · **Open issues**: 9,750 · **Contributors**: 855
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 4253 · **Open PRs**: 57 · **Closed issues**: 9529 · **Open issues**: 213 · **Commits**: 18391
+- **Releases**: 170 · **Merged PRs**: 4260 · **Open PRs**: 62 · **Closed issues**: 9531 · **Open issues**: 219 · **Commits**: 18391
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 192 | 28 | 301 | 101 | 265 |
-| last60d | 2026-07-15 | 4 | 411 | 40 | 621 | 137 | 988 |
-| 90d | 2026-06-15 | 7 | 491 | 50 | 865 | 151 | 1603 |
-| last180d | 2026-03-17 | 16 | 863 | 53 | 1654 | 168 | 2814 |
-| 360d | 2025-09-18 | 43 | 1613 | 56 | 3111 | 185 | 5483 |
-| last720d | 2024-09-23 | 100 | 3025 | 57 | 7359 | 210 | 12413 |
-
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/open-webui). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.11.3` | ✅ latest |
+| 30d | 2026-08-15 | 3 | 194 | 33 | 297 | 107 | 265 |
+| last60d | 2026-07-16 | 4 | 416 | 45 | 619 | 143 | 988 |
+| 90d | 2026-06-16 | 7 | 498 | 55 | 862 | 157 | 1603 |
+| last180d | 2026-03-18 | 16 | 868 | 58 | 1646 | 174 | 2814 |
+| 360d | 2025-09-19 | 43 | 1616 | 61 | 3106 | 191 | 5483 |
+| last720d | 2024-09-24 | 100 | 3021 | 62 | 7343 | 216 | 12397 |
 
 ## Improve this data
 
@@ -71,4 +63,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:19:39Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:26:29Z._
