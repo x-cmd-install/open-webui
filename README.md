@@ -37,22 +37,22 @@ Total: **495,823** lines of code across **1089** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 152,225 · **Forks**: 22,278 · **Open issues**: 9,779 · **Contributors**: 855
+- **Stars**: 152,321 · **Forks**: 22,294 · **Open issues**: 9,787 · **Contributors**: 855
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 4262 · **Open PRs**: 66 · **Closed issues**: 9539 · **Open issues**: 240 · **Commits**: 18391
+- **Releases**: 170 · **Merged PRs**: 4272 · **Open PRs**: 56 · **Closed issues**: 9551 · **Open issues**: 236 · **Commits**: 18391
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 3 | 185 | 37 | 281 | 124 | 265 |
-| last60d | 2026-07-18 | 4 | 417 | 47 | 620 | 162 | 988 |
-| 90d | 2026-06-18 | 7 | 498 | 59 | 850 | 177 | 1603 |
-| last180d | 2026-03-20 | 16 | 860 | 62 | 1637 | 195 | 2814 |
-| 360d | 2025-09-21 | 43 | 1614 | 65 | 3110 | 212 | 5483 |
-| last720d | 2024-09-26 | 100 | 3016 | 66 | 7328 | 237 | 12335 |
+| 30d | 2026-08-18 | 3 | 193 | 27 | 282 | 120 | 265 |
+| last60d | 2026-07-19 | 4 | 424 | 37 | 629 | 158 | 988 |
+| 90d | 2026-06-19 | 7 | 507 | 49 | 857 | 173 | 1603 |
+| last180d | 2026-03-21 | 16 | 869 | 52 | 1647 | 191 | 2814 |
+| 360d | 2025-09-22 | 43 | 1620 | 55 | 3113 | 208 | 5483 |
+| last720d | 2024-09-27 | 100 | 3023 | 56 | 7329 | 233 | 12312 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:22:51Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:29:38Z._
