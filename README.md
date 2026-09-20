@@ -4,7 +4,7 @@
 
 User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-![open-webui](https://repo.x-cmd.io/open-webui.svg)
+[![x-cmd/install — open-webui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/open-webui.svg)](https://x-cmd.com/install/open-webui)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **495,823** lines of code across **1089** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 152,425 · **Forks**: 22,301 · **Open issues**: 9,804 · **Contributors**: 855
+- **Stars**: 152,585 · **Forks**: 22,326 · **Open issues**: 9,862 · **Contributors**: 855
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 4276 · **Open PRs**: 67 · **Closed issues**: 9570 · **Open issues**: 234 · **Commits**: 18391
+- **Releases**: 170 · **Merged PRs**: 4312 · **Open PRs**: 69 · **Closed issues**: 9611 · **Open issues**: 251 · **Commits**: 18391
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 182 | 37 | 290 | 119 | 265 |
-| last60d | 2026-07-20 | 4 | 416 | 48 | 634 | 156 | 988 |
-| 90d | 2026-06-20 | 7 | 510 | 58 | 873 | 171 | 1603 |
-| last180d | 2026-03-22 | 16 | 872 | 63 | 1662 | 189 | 2814 |
-| 360d | 2025-09-23 | 43 | 1624 | 66 | 3121 | 206 | 5483 |
-| last720d | 2024-09-28 | 100 | 3026 | 67 | 7339 | 231 | 12296 |
+| 30d | 2026-08-21 | 3 | 201 | 37 | 314 | 133 | 101 |
+| last60d | 2026-07-22 | 4 | 440 | 48 | 659 | 172 | 602 |
+| 90d | 2026-06-22 | 7 | 545 | 60 | 905 | 187 | 1555 |
+| last180d | 2026-03-24 | 16 | 899 | 65 | 1685 | 206 | 2695 |
+| 360d | 2025-09-25 | 43 | 1648 | 68 | 3140 | 223 | 5251 |
+| last720d | 2024-09-30 | 100 | 3058 | 69 | 7366 | 248 | 12267 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:12:35Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:29:17Z._
