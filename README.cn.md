@@ -4,7 +4,7 @@
 
 User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-[![x-cmd/install — open-webui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/open-webui.svg?lang=zh)](https://x-cmd.com/install/open-webui)
+[![x-cmd/install — open-webui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/open-webui.svg?lang=zh)](https://x-cmd.com/install/open-webui)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install open-webui
 
 ## 流行度
 
-- **Star**: 152,757 · **Fork**: 22,350 · **开放 issue**: 9,904 · **贡献者**: 862
+- **Star**: 152,860 · **Fork**: 22,367 · **开放 issue**: 9,921 · **贡献者**: 862
 
 ## 累计统计
 
-- **发布数**: 171 · **已合并 PR**: 4357 · **开放 PR**: 32 · **已关闭 issue**: 9655 · **开放 issue**: 249 · **提交数**: 18717
+- **发布数**: 171 · **已合并 PR**: 4371 · **开放 PR**: 44 · **已关闭 issue**: 9694 · **开放 issue**: 227 · **提交数**: 18717
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 233 | 6 | 343 | 131 | 494 |
-| last60d | 2026-07-24 | 5 | 448 | 13 | 684 | 169 | 995 |
-| 90d | 2026-06-24 | 8 | 582 | 24 | 941 | 185 | 1948 |
-| last180d | 2026-03-26 | 16 | 932 | 28 | 1706 | 204 | 3088 |
-| 360d | 2025-09-27 | 43 | 1673 | 31 | 3164 | 221 | 5644 |
-| last720d | 2024-10-02 | 100 | 3092 | 32 | 7398 | 244 | 12563 |
+| 30d | 2026-08-24 | 4 | 243 | 22 | 368 | 111 | 494 |
+| last60d | 2026-07-25 | 5 | 454 | 26 | 716 | 148 | 995 |
+| 90d | 2026-06-25 | 8 | 595 | 38 | 971 | 165 | 1948 |
+| last180d | 2026-03-27 | 16 | 943 | 40 | 1729 | 184 | 3088 |
+| 360d | 2025-09-28 | 43 | 1677 | 43 | 3187 | 200 | 5644 |
+| last720d | 2024-10-03 | 100 | 3106 | 44 | 7428 | 221 | 12544 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ open-webui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:22:05Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:19:28Z._

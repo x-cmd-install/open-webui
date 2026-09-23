@@ -4,7 +4,7 @@
 
 User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-[![x-cmd/install — open-webui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/open-webui.svg)](https://x-cmd.com/install/open-webui)
+[![x-cmd/install — open-webui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/open-webui.svg)](https://x-cmd.com/install/open-webui)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **527,288** lines of code across **1105** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 152,757 · **Forks**: 22,350 · **Open issues**: 9,904 · **Contributors**: 862
+- **Stars**: 152,860 · **Forks**: 22,367 · **Open issues**: 9,921 · **Contributors**: 862
 
 ## Totals (cumulative)
 
-- **Releases**: 171 · **Merged PRs**: 4357 · **Open PRs**: 32 · **Closed issues**: 9655 · **Open issues**: 249 · **Commits**: 18717
+- **Releases**: 171 · **Merged PRs**: 4371 · **Open PRs**: 44 · **Closed issues**: 9694 · **Open issues**: 227 · **Commits**: 18717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 233 | 6 | 343 | 131 | 494 |
-| last60d | 2026-07-24 | 5 | 448 | 13 | 684 | 169 | 995 |
-| 90d | 2026-06-24 | 8 | 582 | 24 | 941 | 185 | 1948 |
-| last180d | 2026-03-26 | 16 | 932 | 28 | 1706 | 204 | 3088 |
-| 360d | 2025-09-27 | 43 | 1673 | 31 | 3164 | 221 | 5644 |
-| last720d | 2024-10-02 | 100 | 3092 | 32 | 7398 | 244 | 12563 |
+| 30d | 2026-08-24 | 4 | 243 | 22 | 368 | 111 | 494 |
+| last60d | 2026-07-25 | 5 | 454 | 26 | 716 | 148 | 995 |
+| 90d | 2026-06-25 | 8 | 595 | 38 | 971 | 165 | 1948 |
+| last180d | 2026-03-27 | 16 | 943 | 40 | 1729 | 184 | 3088 |
+| 360d | 2025-09-28 | 43 | 1677 | 43 | 3187 | 200 | 5644 |
+| last720d | 2024-10-03 | 100 | 3106 | 44 | 7428 | 221 | 12544 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:22:04Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:19:28Z._
