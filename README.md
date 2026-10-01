@@ -37,22 +37,22 @@ Total: **527,288** lines of code across **1105** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 153,583 · **Forks**: 22,457 · **Open issues**: 10,087 · **Contributors**: 861
+- **Stars**: 153,685 · **Forks**: 22,473 · **Open issues**: 10,100 · **Contributors**: 861
 
 ## Totals (cumulative)
 
-- **Releases**: 171 · **Merged PRs**: 4468 · **Open PRs**: 108 · **Closed issues**: 9831 · **Open issues**: 256 · **Commits**: 18717
+- **Releases**: 171 · **Merged PRs**: 4537 · **Open PRs**: 51 · **Closed issues**: 9883 · **Open issues**: 217 · **Commits**: 18717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 3 | 289 | 87 | 381 | 140 | 372 |
-| last60d | 2026-08-01 | 4 | 444 | 89 | 724 | 172 | 969 |
-| 90d | 2026-07-02 | 5 | 662 | 101 | 1023 | 193 | 1658 |
-| last180d | 2026-04-03 | 15 | 1013 | 104 | 1798 | 214 | 2995 |
-| 360d | 2025-10-05 | 42 | 1745 | 107 | 3269 | 229 | 5503 |
-| last720d | 2024-10-10 | 100 | 3171 | 108 | 7488 | 249 | 12261 |
+| 30d | 2026-09-01 | 1 | 347 | 30 | 417 | 106 | 372 |
+| last60d | 2026-08-02 | 4 | 510 | 32 | 765 | 137 | 969 |
+| 90d | 2026-07-03 | 5 | 728 | 44 | 1066 | 156 | 1658 |
+| last180d | 2026-04-04 | 15 | 1081 | 47 | 1847 | 175 | 2995 |
+| 360d | 2025-10-06 | 42 | 1813 | 50 | 3315 | 190 | 5503 |
+| last720d | 2024-10-11 | 100 | 3237 | 51 | 7533 | 210 | 12254 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:05:01Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:20:12Z._
