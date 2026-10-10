@@ -37,22 +37,22 @@ Total: **527,288** lines of code across **1105** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 154,075 · **Forks**: 22,547 · **Open issues**: 10,229 · **Contributors**: 861
+- **Stars**: 154,168 · **Forks**: 22,554 · **Open issues**: 10,243 · **Contributors**: 861
 
 ## Totals (cumulative)
 
-- **Releases**: 171 · **Merged PRs**: 4622 · **Open PRs**: 64 · **Closed issues**: 10014 · **Open issues**: 215 · **Commits**: 18717
+- **Releases**: 171 · **Merged PRs**: 4651 · **Open PRs**: 44 · **Closed issues**: 10027 · **Open issues**: 216 · **Commits**: 18717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 1 | 364 | 45 | 410 | 114 | 192 |
-| last60d | 2026-08-10 | 4 | 557 | 46 | 774 | 154 | 833 |
-| 90d | 2026-07-11 | 5 | 779 | 53 | 1105 | 171 | 1623 |
-| last180d | 2026-04-12 | 15 | 1130 | 59 | 1915 | 181 | 2876 |
-| 360d | 2025-10-14 | 41 | 1866 | 63 | 3364 | 194 | 5428 |
-| last720d | 2024-10-19 | 100 | 3310 | 64 | 7610 | 210 | 12111 |
+| 30d | 2026-09-10 | 1 | 387 | 25 | 412 | 113 | 192 |
+| last60d | 2026-08-11 | 4 | 586 | 26 | 779 | 155 | 833 |
+| 90d | 2026-07-12 | 5 | 807 | 33 | 1114 | 172 | 1623 |
+| last180d | 2026-04-13 | 15 | 1157 | 39 | 1913 | 182 | 2876 |
+| 360d | 2025-10-15 | 41 | 1893 | 43 | 3370 | 195 | 5428 |
+| last720d | 2024-10-20 | 100 | 3338 | 44 | 7619 | 211 | 12078 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T05:39:50Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:22:24Z._
