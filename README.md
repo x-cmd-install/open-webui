@@ -37,22 +37,22 @@ Total: **588,131** lines of code across **1215** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 156,006 · **Forks**: 22,708 · **Open issues**: 10,444 · **Contributors**: 874
+- **Stars**: 156,118 · **Forks**: 22,729 · **Open issues**: 10,452 · **Contributors**: 874
 
 ## Totals (cumulative)
 
-- **Releases**: 175 · **Merged PRs**: 4834 · **Open PRs**: 105 · **Closed issues**: 10241 · **Open issues**: 203 · **Commits**: 19602
+- **Releases**: 175 · **Merged PRs**: 4834 · **Open PRs**: 116 · **Closed issues**: 10244 · **Open issues**: 208 · **Commits**: 19602
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 5 | 525 | 99 | 530 | 104 | 838 |
-| last60d | 2026-08-19 | 8 | 732 | 100 | 911 | 145 | 1405 |
-| 90d | 2026-07-20 | 9 | 970 | 100 | 1277 | 158 | 2059 |
-| last180d | 2026-04-21 | 19 | 1308 | 102 | 2043 | 171 | 3557 |
-| 360d | 2025-10-23 | 44 | 2043 | 104 | 3526 | 183 | 6180 |
-| last720d | 2024-10-28 | 100 | 3486 | 105 | 7750 | 198 | 12729 |
+| 30d | 2026-09-19 | 5 | 500 | 110 | 502 | 109 | 838 |
+| last60d | 2026-08-20 | 8 | 718 | 111 | 908 | 150 | 1405 |
+| 90d | 2026-07-21 | 9 | 959 | 111 | 1266 | 163 | 2059 |
+| last180d | 2026-04-22 | 17 | 1303 | 113 | 2023 | 176 | 3557 |
+| 360d | 2025-10-24 | 44 | 2035 | 115 | 3514 | 188 | 6180 |
+| last720d | 2024-10-29 | 100 | 3482 | 116 | 7739 | 203 | 12711 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:02:10Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:11:12Z._
