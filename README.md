@@ -37,22 +37,22 @@ Total: **588,131** lines of code across **1215** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 156,597 · **Forks**: 22,789 · **Open issues**: 10,582 · **Contributors**: 874
+- **Stars**: 156,667 · **Forks**: 22,808 · **Open issues**: 10,617 · **Contributors**: 874
 
 ## Totals (cumulative)
 
-- **Releases**: 175 · **Merged PRs**: 5047 · **Open PRs**: 48 · **Closed issues**: 10406 · **Open issues**: 176 · **Commits**: 19602
+- **Releases**: 175 · **Merged PRs**: 5109 · **Open PRs**: 15 · **Closed issues**: 10448 · **Open issues**: 169 · **Commits**: 19602
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 4 | 599 | 42 | 536 | 65 | 838 |
-| last60d | 2026-08-25 | 8 | 915 | 42 | 1016 | 116 | 1405 |
-| 90d | 2026-07-26 | 9 | 1097 | 43 | 1384 | 131 | 2059 |
-| last180d | 2026-04-27 | 16 | 1507 | 45 | 2119 | 142 | 3557 |
-| 360d | 2025-10-29 | 44 | 2241 | 47 | 3640 | 155 | 6180 |
-| last720d | 2024-11-03 | 100 | 3681 | 48 | 7864 | 171 | 12675 |
+| 30d | 2026-09-25 | 4 | 637 | 9 | 548 | 54 | 694 |
+| last60d | 2026-08-26 | 7 | 971 | 9 | 1044 | 107 | 1289 |
+| 90d | 2026-07-27 | 9 | 1147 | 10 | 1400 | 122 | 1868 |
+| last180d | 2026-04-28 | 16 | 1568 | 12 | 2155 | 135 | 3555 |
+| 360d | 2025-10-30 | 44 | 2303 | 14 | 3677 | 148 | 6121 |
+| last720d | 2024-11-04 | 100 | 3742 | 15 | 7893 | 164 | 12653 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:08:42Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:10:56Z._
