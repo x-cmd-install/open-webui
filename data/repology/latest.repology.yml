@@ -1,15 +1,3 @@
-- repo: nix_stable_26_05
-  srcname: open-webui
-  visiblename: open-webui
-  version: 0.12.2
-  origversion: null
-  status: outdated
-  summary: Comprehensive suite for LLMs with a user-friendly WebUI
-  maintainers:
-    - sbh69840@gmail.com
-    - codgician@outlook.com
-  licenses:
-    - Open WebUI License
 - repo: aur
   srcname: open-webui
   binname: open-webui
@@ -19,7 +7,7 @@
   status: outdated
   summary: Web UI and OpenAI API for various LLM runners, including Ollama
   maintainers:
-    - julianxhokaxhiu@aur
+    - fallback-mnt-aur@repology
   licenses:
     - BSD-3-Clause
 - repo: aur
@@ -34,6 +22,18 @@
     - lailatveit@aur
   licenses:
     - MIT
+- repo: nix_stable_26_05
+  srcname: open-webui
+  visiblename: open-webui
+  version: 0.12.2
+  origversion: null
+  status: outdated
+  summary: Comprehensive suite for LLMs with a user-friendly WebUI
+  maintainers:
+    - sbh69840@gmail.com
+    - codgician@outlook.com
+  licenses:
+    - Open WebUI License
 - repo: nix_unstable
   srcname: open-webui
   visiblename: open-webui
