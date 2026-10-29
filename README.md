@@ -37,22 +37,22 @@ Total: **596,130** lines of code across **1221** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 156,993 · **Forks**: 22,853 · **Open issues**: 10,684 · **Contributors**: 876
+- **Stars**: 157,095 · **Forks**: 22,861 · **Open issues**: 10,711 · **Contributors**: 876
 
 ## Totals (cumulative)
 
-- **Releases**: 176 · **Merged PRs**: 5160 · **Open PRs**: 21 · **Closed issues**: 10498 · **Open issues**: 186 · **Commits**: 19988
+- **Releases**: 176 · **Merged PRs**: 5177 · **Open PRs**: 25 · **Closed issues**: 10553 · **Open issues**: 158 · **Commits**: 19988
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 5 | 657 | 15 | 552 | 74 | 1085 |
-| last60d | 2026-08-29 | 8 | 1001 | 15 | 1041 | 121 | 1680 |
-| 90d | 2026-07-30 | 9 | 1167 | 16 | 1396 | 138 | 2259 |
-| last180d | 2026-05-01 | 17 | 1616 | 18 | 2179 | 152 | 3946 |
-| 360d | 2025-11-02 | 45 | 2348 | 20 | 3720 | 165 | 6512 |
-| last720d | 2024-11-07 | 100 | 3783 | 21 | 7915 | 181 | 12972 |
+| 30d | 2026-09-29 | 5 | 650 | 19 | 567 | 60 | 1085 |
+| last60d | 2026-08-30 | 8 | 1007 | 19 | 1079 | 99 | 1680 |
+| 90d | 2026-07-31 | 9 | 1161 | 20 | 1424 | 114 | 2259 |
+| last180d | 2026-05-02 | 17 | 1633 | 22 | 2225 | 126 | 3946 |
+| 360d | 2025-11-03 | 45 | 2363 | 24 | 3763 | 138 | 6512 |
+| last720d | 2024-11-08 | 100 | 3800 | 25 | 7963 | 153 | 12961 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:06:11Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:19:12Z._
