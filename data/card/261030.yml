@@ -1,0 +1,201 @@
+about:
+  description: "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+  license: NOASSERTION
+  homepage: https://openwebui.com
+  head: f7ac7ee
+  archived: false
+  latestVersion: "v0.12.5"
+  latestRelease: "v0.12.5"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T05:17:21Z
+timeline:
+  created: 2023-10-06
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-29
+  lastRelease: 2026-10-29
+  lastPrerelease: 
+popularity:
+  star: 157204
+  watcher: 674
+  fork: 22877
+  release: 177
+  contributor: 878
+  pullRequest: 12443
+  issue: 10728
+language:
+  Python: 5021097
+  Svelte: 4847721
+  JavaScript: 2440511
+  TypeScript: 846144
+  CSS: 238135
+  Shell: 20694
+  Rust: 14767
+  Dockerfile: 9703
+  HTML: 7600
+  Batchfile: 2380
+  Mako: 665
+  Makefile: 643
+totalBytes: 13450060
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 6
+    mergedPR: 655
+    openPR: 3
+    closedIssue: 584
+    openIssue: 46
+    commit: 1194
+  last60d:
+    since: 2026-08-31
+    release: 9
+    mergedPR: 1018
+    openPR: 3
+    closedIssue: 1086
+    openIssue: 85
+    commit: 1789
+  last90d:
+    since: 2026-08-01
+    release: 10
+    mergedPR: 1173
+    openPR: 4
+    closedIssue: 1444
+    openIssue: 100
+    commit: 2368
+  last180d:
+    since: 2026-05-03
+    release: 18
+    mergedPR: 1652
+    openPR: 6
+    closedIssue: 2250
+    openIssue: 112
+    commit: 4055
+  last360d:
+    since: 2025-11-04
+    release: 46
+    mergedPR: 2380
+    openPR: 8
+    closedIssue: 3782
+    openIssue: 124
+    commit: 6621
+  last720d:
+    since: 2024-11-09
+    release: 100
+    mergedPR: 3819
+    openPR: 9
+    closedIssue: 7985
+    openIssue: 139
+    commit: 13060
+total:
+  release: 177
+  mergedPR: 5197
+  openPR: 9
+  closedIssue: 10584
+  openIssue: 144
+  commit: 20087
+---
+path: /home/runner/.x-repo/github.com/open-webui/open-webui
+collectedAt: 2026-10-30T05:17:49Z
+loc:
+  Json:
+    code: 306144
+    comments: 0
+    blanks: 0
+    files: 73
+  Python:
+    code: 105936
+    comments: 5414
+    blanks: 18679
+    files: 293
+  Svelte:
+    code: 76601
+    comments: 1100
+    blanks: 4077
+    files: 730
+  JavaScript:
+    code: 74678
+    comments: 3877
+    blanks: 190
+    files: 16
+  TypeScript:
+    code: 29592
+    comments: 717
+    blanks: 3362
+    files: 121
+  Css:
+    code: 11267
+    comments: 61
+    blanks: 196
+    files: 5
+  Svg:
+    code: 3844
+    comments: 0
+    blanks: 0
+    files: 3840
+  Sh:
+    code: 417
+    comments: 73
+    blanks: 103
+    files: 8
+  Rust:
+    code: 262
+    comments: 1
+    blanks: 3
+    files: 1
+  Toml:
+    code: 229
+    comments: 4
+    blanks: 41
+    files: 3
+  Dockerfile:
+    code: 140
+    comments: 53
+    blanks: 41
+    files: 1
+  Yaml:
+    code: 122
+    comments: 7
+    blanks: 7
+    files: 8
+  Html:
+    code: 102
+    comments: 10
+    blanks: 12
+    files: 1
+  Batch:
+    code: 43
+    comments: 7
+    blanks: 8
+    files: 1
+  Ini:
+    code: 31
+    comments: 59
+    blanks: 24
+    files: 1
+  Makefile:
+    code: 24
+    comments: 2
+    blanks: 7
+    files: 1
+  Xml:
+    code: 8
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 5871
+    blanks: 1220
+    files: 11
+  Text:
+    code: 0
+    comments: 6112
+    blanks: 1156
+    files: 4
+total:
+  code: 672587
+  comments: 24953
+  blanks: 38127
+  files: 5119
+---
+
+---
