@@ -37,22 +37,22 @@ Total: **609,440** lines of code across **1233** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 157,313 · **Forks**: 22,883 · **Open issues**: 10,754 · **Contributors**: 878
+- **Stars**: 157,428 · **Forks**: 22,887 · **Open issues**: 10,770 · **Contributors**: 878
 
 ## Totals (cumulative)
 
-- **Releases**: 177 · **Merged PRs**: 5219 · **Open PRs**: 12 · **Closed issues**: 10608 · **Open issues**: 146 · **Commits**: 20087
+- **Releases**: 177 · **Merged PRs**: 5233 · **Open PRs**: 13 · **Closed issues**: 10623 · **Open issues**: 147 · **Commits**: 20087
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 6 | 670 | 6 | 594 | 46 | 1194 |
-| last60d | 2026-09-01 | 7 | 1029 | 6 | 1096 | 86 | 1789 |
-| 90d | 2026-08-02 | 10 | 1192 | 7 | 1457 | 102 | 2368 |
-| last180d | 2026-05-04 | 18 | 1671 | 9 | 2262 | 114 | 4055 |
-| 360d | 2025-11-05 | 46 | 2402 | 11 | 3800 | 126 | 6621 |
-| last720d | 2024-11-10 | 100 | 3839 | 12 | 8005 | 141 | 13055 |
+| 30d | 2026-10-02 | 6 | 673 | 7 | 599 | 48 | 989 |
+| last60d | 2026-09-02 | 7 | 1042 | 7 | 1100 | 85 | 1612 |
+| 90d | 2026-08-03 | 10 | 1202 | 8 | 1463 | 104 | 2354 |
+| last180d | 2026-05-05 | 18 | 1681 | 10 | 2269 | 116 | 3839 |
+| 360d | 2025-11-06 | 46 | 2409 | 12 | 3803 | 127 | 6536 |
+| last720d | 2024-11-11 | 100 | 3853 | 13 | 8014 | 142 | 13050 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:01:01Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:31:44Z._
