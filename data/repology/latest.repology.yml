@@ -1,16 +1,4 @@
 - repo: aur
-  srcname: open-webui
-  binname: open-webui
-  visiblename: open-webui
-  version: 0.11.4
-  origversion: 0.11.4-1
-  status: outdated
-  summary: Web UI and OpenAI API for various LLM runners, including Ollama
-  maintainers:
-    - fallback-mnt-aur@repology
-  licenses:
-    - BSD-3-Clause
-- repo: aur
   srcname: open-webui-git
   binname: open-webui-git
   visiblename: open-webui-git
@@ -22,6 +10,18 @@
     - lailatveit@aur
   licenses:
     - MIT
+- repo: aur
+  srcname: open-webui
+  binname: open-webui
+  visiblename: open-webui
+  version: 0.11.4
+  origversion: 0.11.4-1
+  status: outdated
+  summary: Web UI and OpenAI API for various LLM runners, including Ollama
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - BSD-3-Clause
 - repo: nix_stable_26_05
   srcname: open-webui
   visiblename: open-webui
@@ -37,7 +37,7 @@
 - repo: nix_unstable
   srcname: open-webui
   visiblename: open-webui
-  version: 0.12.3
+  version: 0.12.5
   origversion: null
   status: newest
   summary: Comprehensive suite for LLMs with a user-friendly WebUI
@@ -46,26 +46,6 @@
     - codgician@outlook.com
   licenses:
     - Open WebUI License
-- repo: homebrew_casks
-  srcname: open-webui
-  visiblename: Open WebUI
-  version: 0.0.20
-  origversion: null
-  status: outdated
-  summary: Desktop application for Open WebUI
-  vulnerable: true
-- repo: nix_stable_24_05
-  srcname: open-webui
-  visiblename: open-webui
-  version: 0.3.12
-  origversion: null
-  status: outdated
-  summary: Comprehensive suite for LLMs with a user-friendly WebUI
-  maintainers:
-    - sbh69840@gmail.com
-  licenses:
-    - MIT
-  vulnerable: true
 - repo: nix_stable_24_11
   srcname: open-webui
   visiblename: open-webui
@@ -103,4 +83,24 @@
     - codgician@outlook.com
   licenses:
     - Open WebUI License
+  vulnerable: true
+- repo: homebrew_casks
+  srcname: open-webui
+  visiblename: Open WebUI
+  version: 0.1.4
+  origversion: null
+  status: outdated
+  summary: Desktop application for Open WebUI
+  vulnerable: true
+- repo: nix_stable_24_05
+  srcname: open-webui
+  visiblename: open-webui
+  version: 0.3.12
+  origversion: null
+  status: outdated
+  summary: Comprehensive suite for LLMs with a user-friendly WebUI
+  maintainers:
+    - sbh69840@gmail.com
+  licenses:
+    - MIT
   vulnerable: true
