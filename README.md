@@ -37,22 +37,22 @@ Total: **630,574** lines of code across **1287** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 157,811 · **Forks**: 22,946 · **Open issues**: 10,834 · **Contributors**: 879
+- **Stars**: 157,889 · **Forks**: 22,953 · **Open issues**: 10,856 · **Contributors**: 879
 
 ## Totals (cumulative)
 
-- **Releases**: 178 · **Merged PRs**: 5287 · **Open PRs**: 28 · **Closed issues**: 10676 · **Open issues**: 158 · **Commits**: 20281
+- **Releases**: 178 · **Merged PRs**: 5306 · **Open PRs**: 17 · **Closed issues**: 10695 · **Open issues**: 161 · **Commits**: 20281
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 7 | 696 | 22 | 610 | 59 | 1189 |
-| last60d | 2026-09-06 | 8 | 1047 | 22 | 1090 | 91 | 1812 |
-| 90d | 2026-08-07 | 11 | 1232 | 23 | 1450 | 114 | 2554 |
-| last180d | 2026-05-09 | 19 | 1716 | 25 | 2288 | 127 | 4039 |
-| 360d | 2025-11-10 | 45 | 2451 | 27 | 3824 | 138 | 6736 |
-| last720d | 2024-11-15 | 100 | 3896 | 28 | 8024 | 153 | 13158 |
+| 30d | 2026-10-07 | 7 | 707 | 11 | 585 | 60 | 1189 |
+| last60d | 2026-09-07 | 8 | 1064 | 11 | 1101 | 92 | 1812 |
+| 90d | 2026-08-08 | 11 | 1248 | 12 | 1459 | 117 | 2554 |
+| last180d | 2026-05-10 | 17 | 1734 | 14 | 2294 | 130 | 4039 |
+| 360d | 2025-11-11 | 45 | 2464 | 16 | 3831 | 141 | 6736 |
+| last720d | 2024-11-16 | 100 | 3913 | 17 | 8039 | 156 | 13143 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:05:49Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:00:31Z._
