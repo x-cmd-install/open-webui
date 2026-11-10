@@ -14,15 +14,15 @@ x install open-webui
 
 ## Code insight
 
-Total: **630,574** lines of code across **1287** files in the top 5 languages.
+Total: **650,885** lines of code across **1326** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 318,119 | 0 | 0 | 73 |
-| Python | 108,878 | 4,377 | 19,014 | 304 |
-| Svelte | 81,355 | 1,072 | 4,121 | 760 |
+| Json | 329,933 | 0 | 0 | 73 |
+| Python | 113,164 | 4,422 | 19,451 | 323 |
+| Svelte | 83,428 | 1,093 | 4,168 | 772 |
 | JavaScript | 74,736 | 3,830 | 185 | 16 |
-| TypeScript | 31,032 | 659 | 3,350 | 134 |
+| TypeScript | 33,058 | 672 | 3,421 | 142 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **630,574** lines of code across **1287** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.13.0` (2026-11-03)
-- **Last commit**: 2026-11-03
+- **Latest**: `v0.13.3` (2026-11-08)
+- **Last commit**: 2026-11-08
 
 ## Popularity
 
-- **Stars**: 158,059 · **Forks**: 22,978 · **Open issues**: 10,904 · **Contributors**: 879
+- **Stars**: 158,261 · **Forks**: 23,003 · **Open issues**: 10,955 · **Contributors**: 881
 
 ## Totals (cumulative)
 
-- **Releases**: 178 · **Merged PRs**: 5347 · **Open PRs**: 9 · **Closed issues**: 10731 · **Open issues**: 173 · **Commits**: 20281
+- **Releases**: 181 · **Merged PRs**: 5373 · **Open PRs**: 13 · **Closed issues**: 10788 · **Open issues**: 167 · **Commits**: 20598
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 7 | 689 | 3 | 590 | 71 | 758 |
-| last60d | 2026-09-09 | 8 | 1089 | 3 | 1097 | 105 | 1735 |
-| 90d | 2026-08-10 | 11 | 1282 | 4 | 1476 | 128 | 2341 |
-| last180d | 2026-05-12 | 16 | 1771 | 6 | 2298 | 141 | 3962 |
-| 360d | 2025-11-13 | 45 | 2498 | 8 | 3853 | 153 | 6645 |
-| last720d | 2024-11-18 | 100 | 3953 | 9 | 8064 | 167 | 13071 |
+| 30d | 2026-10-11 | 9 | 666 | 7 | 623 | 65 | 1081 |
+| last60d | 2026-09-11 | 11 | 1107 | 7 | 1128 | 98 | 2058 |
+| 90d | 2026-08-12 | 14 | 1306 | 8 | 1518 | 122 | 2664 |
+| last180d | 2026-05-14 | 19 | 1780 | 10 | 2332 | 135 | 4285 |
+| 360d | 2025-11-15 | 48 | 2522 | 12 | 3901 | 147 | 6968 |
+| last720d | 2024-11-20 | 100 | 3968 | 13 | 8075 | 159 | 13317 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:33:51Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T06:52:15Z._
