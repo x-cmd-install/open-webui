@@ -37,22 +37,22 @@ Total: **650,885** lines of code across **1326** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 158,261 · **Forks**: 23,003 · **Open issues**: 10,955 · **Contributors**: 881
+- **Stars**: 158,343 · **Forks**: 23,027 · **Open issues**: 11,034 · **Contributors**: 881
 
 ## Totals (cumulative)
 
-- **Releases**: 181 · **Merged PRs**: 5373 · **Open PRs**: 13 · **Closed issues**: 10788 · **Open issues**: 167 · **Commits**: 20598
+- **Releases**: 181 · **Merged PRs**: 5383 · **Open PRs**: 41 · **Closed issues**: 10805 · **Open issues**: 229 · **Commits**: 20598
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 9 | 666 | 7 | 623 | 65 | 1081 |
-| last60d | 2026-09-11 | 11 | 1107 | 7 | 1128 | 98 | 2058 |
-| 90d | 2026-08-12 | 14 | 1306 | 8 | 1518 | 122 | 2664 |
-| last180d | 2026-05-14 | 19 | 1780 | 10 | 2332 | 135 | 4285 |
-| 360d | 2025-11-15 | 48 | 2522 | 12 | 3901 | 147 | 6968 |
-| last720d | 2024-11-20 | 100 | 3968 | 13 | 8075 | 159 | 13317 |
+| 30d | 2026-10-12 | 9 | 636 | 35 | 621 | 126 | 1081 |
+| last60d | 2026-09-12 | 11 | 1112 | 35 | 1139 | 159 | 2058 |
+| 90d | 2026-08-13 | 14 | 1316 | 36 | 1525 | 184 | 2664 |
+| last180d | 2026-05-15 | 19 | 1777 | 38 | 2334 | 197 | 4285 |
+| 360d | 2025-11-16 | 48 | 2531 | 40 | 3914 | 209 | 6968 |
+| last720d | 2024-11-21 | 100 | 3973 | 41 | 8063 | 221 | 13278 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T06:52:15Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:41:12Z._
