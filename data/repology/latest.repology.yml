@@ -46,6 +46,18 @@
     - codgician@outlook.com
   licenses:
     - Open WebUI License
+- repo: nix_stable_24_11
+  srcname: open-webui
+  visiblename: open-webui
+  version: 0.3.35
+  origversion: null
+  status: outdated
+  summary: Comprehensive suite for LLMs with a user-friendly WebUI
+  maintainers:
+    - sbh69840@gmail.com
+  licenses:
+    - MIT
+  vulnerable: true
 - repo: nix_stable_25_05
   srcname: open-webui
   visiblename: open-webui
@@ -71,18 +83,6 @@
   srcname: open-webui
   visiblename: open-webui
   version: 0.3.12
-  origversion: null
-  status: outdated
-  summary: Comprehensive suite for LLMs with a user-friendly WebUI
-  maintainers:
-    - sbh69840@gmail.com
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: nix_stable_24_11
-  srcname: open-webui
-  visiblename: open-webui
-  version: 0.3.35
   origversion: null
   status: outdated
   summary: Comprehensive suite for LLMs with a user-friendly WebUI
