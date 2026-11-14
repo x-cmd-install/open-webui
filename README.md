@@ -37,22 +37,22 @@ Total: **650,885** lines of code across **1326** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 158,527 · **Forks**: 23,046 · **Open issues**: 11,143 · **Contributors**: 881
+- **Stars**: 158,600 · **Forks**: 23,060 · **Open issues**: 11,175 · **Contributors**: 881
 
 ## Totals (cumulative)
 
-- **Releases**: 181 · **Merged PRs**: 5410 · **Open PRs**: 81 · **Closed issues**: 10881 · **Open issues**: 262 · **Commits**: 20598
+- **Releases**: 181 · **Merged PRs**: 5441 · **Open PRs**: 67 · **Closed issues**: 10919 · **Open issues**: 256 · **Commits**: 20598
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 9 | 609 | 75 | 650 | 155 | 1081 |
-| last60d | 2026-09-14 | 11 | 1131 | 75 | 1196 | 188 | 2058 |
-| 90d | 2026-08-15 | 14 | 1337 | 76 | 1585 | 217 | 2664 |
-| last180d | 2026-05-17 | 19 | 1800 | 78 | 2401 | 229 | 4285 |
-| 360d | 2025-11-18 | 48 | 2552 | 80 | 3973 | 241 | 6968 |
-| last720d | 2024-11-23 | 100 | 3988 | 81 | 8097 | 254 | 13220 |
+| 30d | 2026-10-15 | 7 | 618 | 61 | 662 | 149 | 1081 |
+| last60d | 2026-09-15 | 11 | 1155 | 61 | 1221 | 181 | 2058 |
+| 90d | 2026-08-16 | 14 | 1362 | 62 | 1607 | 211 | 2664 |
+| last180d | 2026-05-18 | 19 | 1828 | 64 | 2431 | 223 | 4285 |
+| 360d | 2025-11-19 | 48 | 2580 | 66 | 4005 | 235 | 6968 |
+| last720d | 2024-11-24 | 100 | 4018 | 67 | 8128 | 248 | 13207 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:04:43Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T05:52:07Z._
