@@ -37,26 +37,26 @@ Total: **650,885** lines of code across **1326** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 158,780 · **Forks**: 23,091 · **Open issues**: 11,219 · **Contributors**: 880
+- **Stars**: 158,882 · **Forks**: 23,090 · **Open issues**: 11,240 · **Contributors**: 881
 
 ## Totals (cumulative)
 
-- **Releases**: 181 · **Merged PRs**: 5444 · **Open PRs**: 107 · **Closed issues**: 10934 · **Open issues**: 285 · **Commits**: 20598
+- **Releases**: 181 · **Merged PRs**: 5500 · **Open PRs**: 24 · **Closed issues**: 11016 · **Open issues**: 224 · **Commits**: 20598
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 6 | 523 | 101 | 611 | 177 | 796 |
-| last60d | 2026-09-17 | 11 | 1148 | 101 | 1214 | 209 | 1905 |
-| 90d | 2026-08-18 | 14 | 1360 | 102 | 1604 | 237 | 2542 |
-| last180d | 2026-05-20 | 19 | 1830 | 104 | 2423 | 253 | 4217 |
-| 360d | 2025-11-21 | 48 | 2572 | 106 | 4000 | 264 | 6802 |
-| last720d | 2024-11-26 | 100 | 4015 | 107 | 8109 | 277 | 13191 |
+| 30d | 2026-10-18 | 6 | 564 | 18 | 679 | 116 | 796 |
+| last60d | 2026-09-18 | 11 | 1191 | 18 | 1283 | 147 | 1905 |
+| 90d | 2026-08-19 | 14 | 1398 | 19 | 1677 | 175 | 2542 |
+| last180d | 2026-05-21 | 19 | 1883 | 21 | 2500 | 191 | 4217 |
+| 360d | 2025-11-22 | 48 | 2626 | 23 | 4082 | 203 | 6802 |
+| last720d | 2024-11-27 | 100 | 4068 | 24 | 8177 | 216 | 13162 |
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/open-webui). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/open-webui). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -71,4 +71,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T05:53:22Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:30:11Z._
