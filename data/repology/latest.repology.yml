@@ -1,4 +1,18 @@
 - repo: aur
+  srcname: open-webui
+  binname: open-webui
+  visiblename: open-webui
+  version: 0.13.4
+  origversion: 0.13.4-1
+  status: newest
+  summary: Web UI and OpenAI API for various LLM runners, including Ollama
+  maintainers:
+    - jasonlandbridge@aur
+  licenses:
+    - BSD-3-Clause
+    - custom:Open-WebUI
+    - MIT
+- repo: aur
   srcname: open-webui-git
   binname: open-webui-git
   visiblename: open-webui-git
@@ -9,20 +23,6 @@
   maintainers:
     - lailatveit@aur
   licenses:
-    - MIT
-- repo: aur
-  srcname: open-webui
-  binname: open-webui
-  visiblename: open-webui
-  version: 0.13.3
-  origversion: 0.13.3-1
-  status: newest
-  summary: Web UI and OpenAI API for various LLM runners, including Ollama
-  maintainers:
-    - jasonlandbridge@aur
-  licenses:
-    - BSD-3-Clause
-    - custom:Open-WebUI
     - MIT
 - repo: nix_stable_26_05
   srcname: open-webui
@@ -41,7 +41,7 @@
   visiblename: open-webui
   version: 0.13.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Comprehensive suite for LLMs with a user-friendly WebUI
   maintainers:
     - sbh69840@gmail.com
