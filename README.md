@@ -37,22 +37,22 @@ Total: **672,775** lines of code across **1393** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 159,058 · **Forks**: 23,111 · **Open issues**: 11,290 · **Contributors**: 881
+- **Stars**: 159,121 · **Forks**: 23,122 · **Open issues**: 11,307 · **Contributors**: 881
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 5537 · **Open PRs**: 27 · **Closed issues**: 11073 · **Open issues**: 217 · **Commits**: 20928
+- **Releases**: 182 · **Merged PRs**: 5537 · **Open PRs**: 35 · **Closed issues**: 11079 · **Open issues**: 228 · **Commits**: 20928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 7 | 591 | 21 | 709 | 107 | 1128 |
-| last60d | 2026-09-20 | 12 | 1187 | 21 | 1276 | 139 | 2237 |
-| 90d | 2026-08-21 | 15 | 1418 | 21 | 1715 | 166 | 2874 |
-| last180d | 2026-05-23 | 20 | 1919 | 24 | 2548 | 184 | 4549 |
-| 360d | 2025-11-24 | 49 | 2650 | 26 | 4111 | 196 | 7134 |
-| last720d | 2024-11-29 | 100 | 4099 | 27 | 8220 | 209 | 13470 |
+| 30d | 2026-10-21 | 7 | 552 | 29 | 677 | 116 | 1128 |
+| last60d | 2026-09-21 | 12 | 1177 | 29 | 1269 | 147 | 2237 |
+| 90d | 2026-08-22 | 15 | 1418 | 29 | 1721 | 177 | 2874 |
+| last180d | 2026-05-24 | 20 | 1918 | 32 | 2554 | 195 | 4549 |
+| 360d | 2025-11-25 | 47 | 2641 | 34 | 4099 | 207 | 7134 |
+| last720d | 2024-11-30 | 100 | 4098 | 35 | 8221 | 220 | 13451 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T06:55:42Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T06:46:00Z._
