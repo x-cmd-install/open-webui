@@ -3,7 +3,7 @@
   binname: open-webui
   visiblename: open-webui
   version: 0.13.4
-  origversion: 0.13.4-1
+  origversion: 0.13.4-4
   status: newest
   summary: Web UI and OpenAI API for various LLM runners, including Ollama
   maintainers:
@@ -48,14 +48,6 @@
     - codgician@outlook.com
   licenses:
     - Open WebUI License
-- repo: homebrew_casks
-  srcname: open-webui
-  visiblename: Open WebUI
-  version: 0.1.4
-  origversion: null
-  status: outdated
-  summary: Desktop application for Open WebUI
-  vulnerable: true
 - repo: nix_stable_24_05
   srcname: open-webui
   visiblename: open-webui
@@ -80,6 +72,19 @@
   licenses:
     - MIT
   vulnerable: true
+- repo: nix_stable_25_11
+  srcname: open-webui
+  visiblename: open-webui
+  version: 0.8.12
+  origversion: null
+  status: outdated
+  summary: Comprehensive suite for LLMs with a user-friendly WebUI
+  maintainers:
+    - sbh69840@gmail.com
+    - codgician@outlook.com
+  licenses:
+    - Open WebUI License
+  vulnerable: true
 - repo: nix_stable_25_05
   srcname: open-webui
   visiblename: open-webui
@@ -93,16 +98,11 @@
   licenses:
     - MIT
   vulnerable: true
-- repo: nix_stable_25_11
+- repo: homebrew_casks
   srcname: open-webui
-  visiblename: open-webui
-  version: 0.8.12
+  visiblename: Open WebUI
+  version: 0.1.4
   origversion: null
   status: outdated
-  summary: Comprehensive suite for LLMs with a user-friendly WebUI
-  maintainers:
-    - sbh69840@gmail.com
-    - codgician@outlook.com
-  licenses:
-    - Open WebUI License
+  summary: Desktop application for Open WebUI
   vulnerable: true
