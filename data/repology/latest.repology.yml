@@ -48,6 +48,30 @@
     - codgician@outlook.com
   licenses:
     - Open WebUI License
+- repo: openmandriva_cooker
+  subrepo: non-free/release
+  srcname: open-webui
+  binnames:
+    - open-webui
+  visiblename: open-webui
+  version: 0.13.5
+  origversion: 0.13.5-1
+  status: untrusted
+  summary: Web interface for Ollama and OpenAI-compatible APIs
+  maintainers:
+    - bero@lindev.ch
+  licenses:
+    - LicenseRef-Open-WebUI
+  categories:
+    - Applications/Internet
+- repo: homebrew_casks
+  srcname: open-webui
+  visiblename: Open WebUI
+  version: 0.1.4
+  origversion: null
+  status: outdated
+  summary: Desktop application for Open WebUI
+  vulnerable: true
 - repo: nix_stable_24_05
   srcname: open-webui
   visiblename: open-webui
@@ -72,19 +96,6 @@
   licenses:
     - MIT
   vulnerable: true
-- repo: nix_stable_25_11
-  srcname: open-webui
-  visiblename: open-webui
-  version: 0.8.12
-  origversion: null
-  status: outdated
-  summary: Comprehensive suite for LLMs with a user-friendly WebUI
-  maintainers:
-    - sbh69840@gmail.com
-    - codgician@outlook.com
-  licenses:
-    - Open WebUI License
-  vulnerable: true
 - repo: nix_stable_25_05
   srcname: open-webui
   visiblename: open-webui
@@ -98,11 +109,16 @@
   licenses:
     - MIT
   vulnerable: true
-- repo: homebrew_casks
+- repo: nix_stable_25_11
   srcname: open-webui
-  visiblename: Open WebUI
-  version: 0.1.4
+  visiblename: open-webui
+  version: 0.8.12
   origversion: null
   status: outdated
-  summary: Desktop application for Open WebUI
+  summary: Comprehensive suite for LLMs with a user-friendly WebUI
+  maintainers:
+    - sbh69840@gmail.com
+    - codgician@outlook.com
+  licenses:
+    - Open WebUI License
   vulnerable: true
