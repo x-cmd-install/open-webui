@@ -37,30 +37,22 @@ Total: **702,660** lines of code across **1432** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 159,589 · **Forks**: 23,159 · **Open issues**: 11,471 · **Contributors**: 881
+- **Stars**: 159,665 · **Forks**: 23,163 · **Open issues**: 11,490 · **Contributors**: 881
 
 ## Totals (cumulative)
 
-- **Releases**: 183 · **Merged PRs**: 5663 · **Open PRs**: 9 · **Closed issues**: 11264 · **Open issues**: 207 · **Commits**: 21286
+- **Releases**: 183 · **Merged PRs**: 5675 · **Open PRs**: 14 · **Closed issues**: 11278 · **Open issues**: 212 · **Commits**: 21286
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 7 | 501 | 7 | 720 | 87 | 1206 |
-| last60d | 2026-09-27 | 12 | 1175 | 7 | 1316 | 121 | 2485 |
-| 90d | 2026-08-28 | 15 | 1507 | 7 | 1814 | 155 | 3050 |
-| last180d | 2026-05-30 | 21 | 2017 | 8 | 2698 | 174 | 4716 |
-| 360d | 2025-12-01 | 46 | 2752 | 8 | 4232 | 186 | 7354 |
-| last720d | 2024-12-06 | 100 | 4210 | 9 | 8338 | 199 | 13736 |
-
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/open-webui). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.13.3` | ⚠️ outdated |
+| 30d | 2026-10-28 | 7 | 493 | 12 | 703 | 90 | 1206 |
+| last60d | 2026-09-28 | 12 | 1172 | 12 | 1309 | 126 | 2485 |
+| 90d | 2026-08-29 | 15 | 1516 | 12 | 1812 | 159 | 3050 |
+| last180d | 2026-05-31 | 21 | 2026 | 13 | 2708 | 179 | 4716 |
+| 360d | 2025-12-02 | 46 | 2757 | 13 | 4243 | 191 | 7354 |
+| last720d | 2024-12-07 | 100 | 4221 | 14 | 8343 | 204 | 13733 |
 
 ## Improve this data
 
@@ -71,4 +63,4 @@ Install metadata for open-webui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T07:49:42Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T07:49:44Z._
